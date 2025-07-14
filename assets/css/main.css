@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+.hero {
+  background: #f5f5f5;
+  padding: 2.5rem;
+  text-align: center;
+}
+.testimonials {
+  padding: 1.25rem;
+}
+.testimonial {
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid #ccc;
+}
