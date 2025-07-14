@@ -1,4 +1,4 @@
-# Custom WordPress Theme - Assignment
+# Custom WordPress Theme
 
 ## 🔧 Installation
 1. Download the ZIP.
